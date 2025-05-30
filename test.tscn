@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://bm36u7015hvtd"]
+
+[ext_resource type="Texture2D" uid="uid://b3r78dpvwjgmc" path="res://icon.svg" id="1_37kl0"]
+
+[node name="Node2D" type="Node2D"]
+metadata/arky_enabled = true
+
+[node name="Icon4" type="Sprite2D" parent="."]
+texture = ExtResource("1_37kl0")
+metadata/arky_enabled = true
