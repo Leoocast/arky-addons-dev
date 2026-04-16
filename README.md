@@ -25,16 +25,16 @@ Clean, minimal, and made for devs who care about workflow. 💼✨
 ## 🧪 Preview
 
 ### 🔘 Enabled Toggle
-![](.github/assets/enabled_showcase.gif)
+![](https://github.com/ArkkyDev/arky-addons/raw/main/.github/assets/enabled_showcase.gif)
 
 ### 🎯 Reset Position
-![](.github/assets/position_showcase.gif)
+![](https://github.com/ArkkyDev/arky-addons/raw/main/.github/assets/position_showcase.gif)
 
 ### 📏 Reset Scale
-![](.github/assets/scale_showcase.gif)
+![](https://github.com/ArkkyDev/arky-addons/raw/main/.github/assets/scale_showcase.gif)
 
 ### 🔁 Undo/Redo Support
-![](.github/assets/all_showcase.gif)
+![](https://github.com/ArkkyDev/arky-addons/raw/main/.github/assets/all_showcase.gif)
 
 ---
 
