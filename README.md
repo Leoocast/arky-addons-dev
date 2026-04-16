@@ -1,4 +1,5 @@
-![Header Preview](.github/assets/arky_Addons.png)
+![Header Preview](https://github.com/ArkkyDev/arky-addons/raw/main/.github/assets/arky_Addons.png)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Godot-4.2+-blue?logo=godot-engine&logoColor=white" />
